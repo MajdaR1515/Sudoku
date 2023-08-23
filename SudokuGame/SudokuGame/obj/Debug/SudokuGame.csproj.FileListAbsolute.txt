@@ -1,0 +1,10 @@
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.AssemblyReference.cache
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\majda\OneDrive\Dokumenty\Programko 2.2\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
